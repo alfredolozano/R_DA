@@ -1,14 +1,12 @@
 `Data Science` > [`Programacion con R`]
-## Ejercicios practicos (storytelling); Kaggle
+## Inicio al modelaje de datos
 
 ### OBJETIVO
-- Contar una historia con los datos. 
+- Crear una regresion lineal 
 
 #### REQUISITOS
 1. Contar con R studio.
-1. Usar la carpeta de trabajo `Sesion07/Reto-01`
+1. Usar la carpeta de trabajo `Sesion08/Reto-01`
 
 #### DESARROLLO
-Usando los datos de la encuesta de kaggle, responde ¿Cuál es la distribución de edades de los data scientists por género?
-
-De preferencia enfócate en responder con una visualización efectiva y plantea lo que aporta a la historia. 
+Usaremos la base de mtcars y crearemos un scatter.smooth para ver la relacion entre peso (variable wt) y millas por galon (variable mpg). Despues checaremos la correlacion entre ambas variables y finalmente crearemos un modelo lineal, lo visualizaremos y sacaremos su resumen. 
